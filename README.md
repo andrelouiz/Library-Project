@@ -4,7 +4,7 @@
 
 <p id="description">Library Project
 
-Created a batch file which will allow you to create delete and search bibliographic records. Each record should be a text file containing some lines. Each line should contain field type (eg. word “author” or “title”) and field contents. 
+I created a bash file which will allow you to create delete and search bibliographic records. Each record should be a text file containing some  
 
 eg. 
 <p>
@@ -12,5 +12,3 @@ eg.
 <li>title: Interesting notes on Gargmel’s cat </li>
 <li>pages: 1200 year: 2019 </li>
 </p>
-
-The batch file (or batch files) should allow to add such record Delete file containing a record and search records on author and title. For searching records use awk.</p>
