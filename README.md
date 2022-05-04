@@ -4,7 +4,7 @@
 
 <p id="description">Library Project
 
-Created a batch file which will allow us to create delete and search bibliographic records. Each record should be a text file containing some lines. Each line should contain field type (eg. word “author” or “title”) and field contents. 
+Created a batch file which will allow you to create delete and search bibliographic records. Each record should be a text file containing some lines. Each line should contain field type (eg. word “author” or “title”) and field contents. 
 
 eg. 
 <p>
