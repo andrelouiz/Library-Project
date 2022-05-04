@@ -4,8 +4,8 @@
 
 <p id="description">Library Project
 
-I created a bash file which will allow you to create delete and search bibliographic records. Each record should be a text file containing some  
-
+I created a bash file which allow users to create a bibliographical catalogue and store information in a file. It has a menu 
+  
 eg. 
 <p>
 <li>author: John Smith author: Jerry Brown </li>
